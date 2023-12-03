@@ -7,9 +7,9 @@ Ken's Labyrinth source code.
 	 Ken Silverman's official web site: "http://www.advsys.net/ken"
 
 New keys:
-  , = Strafe left
-  . = Strafe right
-  Tab = Cycle weapon selection
+-  , = Strafe left
+-  . = Strafe right
+-  Tab = Cycle weapon selection
 
 ### Build with:
 ```bash
