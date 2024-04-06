@@ -16,3 +16,4 @@ New keys:
 make -j#  (replace # with the number of CPU cores/threads in your system for faster compiling!)
 ```
 
+## Successfully compiles using gcc-9, but has issues building with gcc-10+.
